@@ -10,7 +10,7 @@ SDK Verisons
 
 Installing:
 ```
-cordova plugin add https://github.com/Heyzap/heyzap-cordova-extras.git#:heyzap-cordova-applovin
+cordova plugin add https://github.com/Heyzap/heyzap-cordova-applovin.git
 ```
 
 Supported Platforms
