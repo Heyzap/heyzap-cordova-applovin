@@ -6,7 +6,7 @@ This is a custom Apache Cordova plugin for AppLovin to be used with the [Heyzap 
 SDK Verisons
 ------------
 - iOS: 4.4.1
-- Android: 6.4.2
+- Android: 7.3.2
 
 Installing:
 ```
